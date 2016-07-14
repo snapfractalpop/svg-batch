@@ -7,5 +7,10 @@
     "test": "mocha"
   },
   "author": "snapfractalpop",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.4",
+    "sinon-chai": "^2.8.0"
+  }
 }
