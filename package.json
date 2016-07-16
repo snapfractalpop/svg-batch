@@ -2,7 +2,7 @@
   "name": "svg-batch",
   "version": "0.0.1",
   "description": "Inkscape svg batch exporter.",
-  "main": "svgBatch.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
